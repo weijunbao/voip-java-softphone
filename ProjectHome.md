@@ -1,0 +1,1 @@
+O Voip será o futuro da telecomunicação, então este softphone em java irá ser o telefone rodando na web.
